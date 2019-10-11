@@ -6,7 +6,7 @@ The main advantages of using enums for representing set of values are:
 * you can be sure, that the value is unchanged (not only validated once)
 * you can use type hints to check that only the defined set of values is acceptable
 * you can define behavior on top of the represented values
-* you can define values for enum defined in constructor
+* you can define properties for enum values
 
 Requirements
 ------------
