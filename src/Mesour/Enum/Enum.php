@@ -9,7 +9,7 @@ use Consistence\Type\ArrayType\ArrayType;
 use Consistence\Type\Type;
 
 /**
- * @author github.com/consistence/consistence
+ * @author Vašek Purchart <vasekpurchart.cz>
  * @author Matouš Němec <mesour.com>
  */
 abstract class Enum
